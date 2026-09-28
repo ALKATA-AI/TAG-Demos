@@ -1,9 +1,12 @@
 # TAG-Demos
 
-*Talking Avatar Generation (TAG)*
+## Talking Avatar Generation (TAG)
 
-Hello!
-These are Output demos of different Models for Talking Avatar Generation.
+This repository provides demo outputs and examples from different models for **Talking Avatar Generation (TAG)**.
 
-For demos, please visit our Page:
-https://alkata-ai.github.io/TAG-Demos/
+The demos showcase the capabilities and results of various approaches for generating talking avatars.
+
+For more details and interactive demos, please visit the project page:
+
+**https://alkata-ai.github.io/TAG-Demos/**
+
